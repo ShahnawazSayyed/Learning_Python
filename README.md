@@ -1,6 +1,6 @@
 # Learning_Python
 Learning Python with integration using PyCharm
 
-Author: Shahanawaz Sayyed
+Author: Shahnawaz Sayyed
 Goal: Development using Python
 IDE: PyCharm
